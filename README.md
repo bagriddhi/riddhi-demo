@@ -1,3 +1,3 @@
 # riddhi-demo
 
-Author-Riddhi Bagri
+Author-Riddhi Bagri (DJSCE)
